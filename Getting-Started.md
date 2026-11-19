@@ -4,7 +4,7 @@ Your first 5 minutes in Virtual Society.
 
 ---
 
-## 1. Check your wallet
+## 1. Check your wallet +
 
 `/balance` - You start with **🪙 1000 cash**. That's your seed money.
 
