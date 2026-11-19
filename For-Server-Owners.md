@@ -23,13 +23,13 @@ This is how you show up in the government's partner list.
 
 ## 3. Fund Your Treasury
 
-Before anyone can work, your treasury needs money: `/fund amount:100000`
+Before anyone can work, your treasury needs money: `/fund amount:500000`
 
-🗒️ Your server is currently at level 1. You'll only be able to fund `100,000` at a time until you level up.
+🗒️ Your server is currently at level 1. You'll only be able to fund `500000` at a time until you level up.
 
 **Server Levels coming soon!**
 
-Any admin with **Manage Server** permission can fund the treasury. 100k
+Any admin with **Manage Server** permission can fund the treasury. 500k
 lasts a while for a small server.
 
 **Every new member adds 🪙 500 to your treasury automatically.**
@@ -40,9 +40,7 @@ lasts a while for a small server.
 
 
 
-You (or a governor) can fund it. 100k lasts a while for a small server.
-
-**Every new member adds 🪙 500 to your treasury automatically.**
+You (or a governor) can fund it. 500k lasts a while for a small server.
 
 ---
 
@@ -78,7 +76,7 @@ Same for channels:
 > be **above** the role that owns the channel you're selling.
 >
 > If you skip this, buyers will see a "Channel Setup Issue" error and
-> won't be charged. See [FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md) for the full fix.
+> won't be charged. See [FAQ](https://github.com/sani495/virgo-guide/blob/main/FAQ.md) for the full fix.
 
 ---
 
