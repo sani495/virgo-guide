@@ -23,9 +23,9 @@ Three possibilities:
 
 ---
 
-**Can I rob someone?**
+**How can I rob someone**
 
-Not yet. The crime system is planned.
+
 
 ---
 
@@ -37,7 +37,7 @@ Your server's shop sells them. Check `/shop`.
 
 **How do I get my server partnered?**
 
-Contact the government staff in [support server](https://discord.gg/ehfSxR8yKR)
+Partner with us in our [support server](https://discord.gg/ehfSxR8yKR)! You can get benefits if you have our bot in your server + partnership!
 
 ---
 
@@ -63,7 +63,7 @@ new server.
 
 **Is any of my data public?**
 
-Your `/balance`, `/profile`, and `/job-info` are visible to anyone with
+Your `/balance`, `/profile`, are visible to anyone with
 those commands. Your bank data is read-only for others.
 
 ---
@@ -120,7 +120,7 @@ sell, the transaction was automatically cancelled.
 
 **Why can't I deposit money into the treasury with `/fund`?**
 
-Your server's treasury has a deposit limit based on its level. Level 1 servers can only hold up to 100,000 per deposit. Level up your server by having members use `/work` to increase the limit!
+Your server's treasury has a deposit limit based on its level. Level 1 servers can only hold up to 500,000 per deposit. Level up your server by having members use `/work` to increase the limit!
 
 **What are Credits?**
 
