@@ -46,13 +46,13 @@ You can also set your bio from `/settings` → User → Bio.
 
 ---
 
-## others
+## 🌱 others
 | Command | What it does |
 |---|---|
 | `/card` | this displays the your levelling information |
 | `/rob @someone` | Rob someone! |
 | `/jail-status @user` | Check your jail status! |
-| `/bail @user | Pay for someone to get out of jail |
+| `/bail @user` | Pay for someone to get out of jail |
 
 ---
 
