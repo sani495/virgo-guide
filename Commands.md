@@ -30,6 +30,7 @@ Type `all` instead of a number to move everything:
 | `/work` | Work a shift and earn money |
 | `/job-info` | See your job, level, and XP |
 | `/quit-job` | Leave your current job |
+| `server-pool | Can be toggled by admins, but members can rebuild the server treasury |
 
 ---
 
@@ -42,6 +43,16 @@ Type `all` instead of a number to move everything:
 | `/set-profile` | Set your profile bio |
 
 You can also set your bio from `/settings` → User → Bio.
+
+---
+
+## others
+| Command | What it does |
+|---|---|
+| `/card` | this displays the your levelling information |
+| `/rob @someone` | Rob someone! |
+| `/jail-status @user` | Check your jail status! |
+| `/bail @user | Pay for someone to get out of jail |
 
 ---
 
@@ -95,7 +106,7 @@ You can also set your bio from `/settings` → User → Bio.
 | `/settings` | Open the settings hub |
 | `/welcome-config` | Welcome channel and message (admins) |
 | `/set-server-name` | Name your server in the network (admins) |
-| `/fund amount:50000` | Add money to your treasury (admins) |
+| `/fund amount:500000` | Add money to your treasury (admins) |
 
 ---
 
@@ -146,4 +157,4 @@ These are only available to the bot developer. (Except for /government)
 
 ---
 
-*Last updated: 11/7/26*
+*Last updated: 11/21/26*
